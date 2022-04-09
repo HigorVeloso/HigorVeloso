@@ -1,5 +1,5 @@
 - 👋 Olá, sou @HigorVeloso.
-- 🦅 Estou me graduando na área.
+- 🦅 Estou me graduando na programação.
 - 🏗️ Sou encantado em desenvolvimento.
 - 🛰️ Procuro trocar conhecimento.
 - 💭 Contato: higorchdv1@gmail.com
