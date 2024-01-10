@@ -1,5 +1,4 @@
 - 👋 Olá, sou @HigorVeloso.
-- 🏗️ Sou encantado em desenvolvimento.
 - 🛰️ Procuro trocar conhecimento.
 - 💭 Contato: higorchdv1@gmail.com
 
