@@ -4,6 +4,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=new)
 
   <br/>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorVeloso&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias do meu dia a dia. 
