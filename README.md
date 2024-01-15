@@ -5,7 +5,7 @@
 
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorVeloso&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorVeloso&layout=compact)
 
 ## Tecnologias do meu dia a dia. 
 <div style="display: inline_block"><br/>
