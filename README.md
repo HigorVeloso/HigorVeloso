@@ -1,5 +1,5 @@
 ## 👋 Olá, sou @HigorVeloso.
-🛰️ Analista de dados e desenvolvedor<br/>
+🛰️ Desenvolvedor de Software e Analista de dados <br/>
 💭 Contato: higorchdv1@gmail.com<br/>
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=new)
 
